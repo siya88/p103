@@ -1,0 +1,13 @@
+body{
+    background-color: burlywood;
+}
+h2{
+    background-color: cadetblue;
+    width: 60%;
+}
+#result, #camera{
+    border: 2px solid blueviolet;
+    height: 300px;
+    width:350px;
+
+}
